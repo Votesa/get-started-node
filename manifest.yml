@@ -1,5 +1,4 @@
 ---
 applications:
- - name: GetStartedNode
-   random-route: true
+ - name: vy301-319-nodesample
    memory: 256M
